@@ -1,0 +1,135 @@
+*{
+
+margin: 0;
+padding: 0;
+
+}
+
+
+.cabecalho{
+    background-color: chocolate;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.cabecalhoimg {
+
+    width: 12%;
+
+}
+
+.cabecalho-lista-item{
+
+display: inline-block;
+margin: 35px 16px;
+
+}
+
+.gatitos{
+
+width: 50%;
+align-items: center;
+
+}
+
+.descrição{
+
+background-image: linear-gradient(chocolate, rgb(179, 98, 41));
+color: black;
+display: flex;
+justify-content:center;
+
+
+}
+
+.conteudo{
+
+width: 80%;
+
+}
+
+.sobre-PP{
+
+    display: flex;
+    justify-content:center;
+    padding: 24px 0;
+    font-family: 'Bagel Fat One', cursive;
+    color: #482710;
+
+}
+
+.texto-um{
+
+    font-family: 'Bagel Fat One', cursive;
+    display: flex;
+
+}
+
+.texto-dois{
+
+    font-family: 'Bagel Fat One', cursive;
+    display: flex;
+
+
+}
+
+.imagem-bird{
+
+    width: 80%;
+
+}
+
+.texto-tres{
+
+    font-family: 'Bagel Fat One', cursive;
+    display: flex;
+
+}
+
+.texto-quatro{
+
+    font-family: 'Bagel Fat One', cursive;
+    display: flex;
+
+}
+
+.texto-cinco{
+
+    font-family: 'Bagel Fat One', cursive;
+    display: flex;
+
+}
+
+.texto-seis{
+
+    font-family: 'Bagel Fat One', cursive;
+    display: flex;
+
+}
+
+.texto-sete{
+
+    font-family: 'Bagel Fat One', cursive;
+    display: flex;
+
+}
+
+.cachorro{
+
+width: 80%;
+
+}
+
+.local-img{
+
+width: 80%;
+
+}
+
+.img-playcat{
+
+width: 80%;
+
+}
